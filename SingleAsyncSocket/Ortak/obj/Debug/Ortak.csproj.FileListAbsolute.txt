@@ -1,0 +1,5 @@
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Ortak\bin\Debug\Ortak.dll
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Ortak\bin\Debug\Ortak.pdb
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Ortak\obj\Debug\Ortak.dll
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Ortak\obj\Debug\Ortak.pdb
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Ortak\obj\Debug\Ortak.csprojResolveAssemblyReference.cache

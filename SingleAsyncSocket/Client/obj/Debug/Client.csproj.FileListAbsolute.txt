@@ -1,0 +1,11 @@
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\bin\Debug\Client.exe.config
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\bin\Debug\Client.exe
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\bin\Debug\Client.pdb
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\obj\Debug\Client.MainClient.resources
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\obj\Debug\Client.Properties.Resources.resources
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\obj\Debug\Client.exe
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\obj\Debug\Client.pdb
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\bin\Debug\Ortak.dll
+F:\YAZILIM\PROJELER\SingleAsyncSocket\Client\bin\Debug\Ortak.pdb

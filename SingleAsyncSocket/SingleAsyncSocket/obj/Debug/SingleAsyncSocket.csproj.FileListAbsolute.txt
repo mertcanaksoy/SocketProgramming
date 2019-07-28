@@ -1,0 +1,1 @@
+F:\YAZILIM\PROJELER\SingleAsyncSocket\SingleAsyncSocket\bin\Debug\SingleAsyncSocket.exe.config
